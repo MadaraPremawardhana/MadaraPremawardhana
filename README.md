@@ -11,7 +11,7 @@
 - 🎓 I'm a **PhD candidate in Computer Science**, passionate about cutting-edge tech.
 - 🔬 My research centers around **Digital Twins** — building cyber-physical systems that replicate real-world dynamics.
 - ♻️ Strong focus on **sustainability and Net Zero strategies** using data-driven models.
-- 🎮 I leverage **game engines** like Unity and Unreal for immersive visualization.
+- 🎮 I leverage **game engines** Unreal for immersive visualization.
 - 📊 Skilled in **Python**, **machine learning**, and **data analysis**.
 - 💡 I explore **real-time simulations**, **system modeling**, and **AI-driven control systems**.
 
