@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5cad&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
-</p>
 
 <h2 align="center">👨‍💻 PhD Researcher | Computer Science | Digital Twins | Net Zero</h2>
 
