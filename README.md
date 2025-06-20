@@ -1,5 +1,8 @@
 
 <h2 align="center">👨‍💻 PhD Researcher | Computer Science | Digital Twins | Net Zero</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
 ---
 
@@ -59,6 +62,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
