@@ -45,9 +45,7 @@
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadaraPremawardhana&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MadaraPremawardhana)](https://git.io/streak-stats)
 
 ---
 
