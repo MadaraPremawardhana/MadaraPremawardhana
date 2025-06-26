@@ -1,7 +1,7 @@
 
 <h2 align="center">👨‍💻 PhD Researcher | Computer Science | Digital Twins | Net Zero</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadaraPremawardhana&label=Profile%20Views&color=0e75b6&style=flat" alt="MadaraPremawardhana" />
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat" alt="MadaraPremawardhana" />
 </p>
 
 ---
