@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-- 🎓 I'm a **PhD candidate in Computer Science**, passionate about cutting-edge tech.
+- 🎓 I'm a **PhD candidate in Computer Science**, passionate about achieving global net zero via digital twins.
 - 🔬 My research centers around **Digital Twins** — building cyber-physical systems that replicate real-world dynamics.
 - ♻️ Strong focus on **sustainability and Net Zero strategies** using data-driven models.
 - 🎮 I leverage **game engines** Unreal for immersive visualization.
