@@ -1,7 +1,7 @@
 
 <h2 align="center">👨‍💻 PhD Researcher | Computer Science | Digital Twins | Net Zero</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=MadaraPremawardhana&label=Profile%20Views&color=0e75b6&style=flat" alt="MadaraPremawardhana" />
 </p>
 
 ---
@@ -34,11 +34,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadaraPremawardhana&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraPremawardhana&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadaraPremawardhana&theme=tokyonight" />
 </p>
 
 ---
