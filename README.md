@@ -41,6 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraPremawardhana&layout=compact&theme=tokyonight" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MadaraPremawardhana)](https://git.io/streak-stats)
+
 
 ### 🌱 Interests
 
