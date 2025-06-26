@@ -34,14 +34,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadaraPremawardhanana&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadaraPremawardhana&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraPremawardhanana&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraPremawardhana&layout=compact&theme=tokyonight" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MadaraPremawardhanana)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MadaraPremawardhana)](https://git.io/streak-stats)
 
 
 ### 🌱 Interests
