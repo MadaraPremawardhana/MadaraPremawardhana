@@ -6,7 +6,7 @@
 
 ---
 ### 📁 Portfolio  
-[![Portfolio Preview]([https://your-uploaded-image-url](https://github.com/MadaraPremawardhana/MadaraPremawardhana/blob/main/portfolio.png))](https://madarapremawardana.wixsite.com/profile/portfolio)
+[![Portfolio Preview](https://your-uploaded-image-url)](https://github.com/MadaraPremawardhana/MadaraPremawardhana/blob/main/portfolio.png)(https://github.com/MadaraPremawardhana/MadaraPremawardhana/blob/main/portfolio.png?raw=true)](https://madarapremawardana.wixsite.com/profile/portfolio)
 
 
 ### 👋 About Me
