@@ -5,13 +5,16 @@
 </p>
 
 ---
+### 📁 Portfolio  
+[![Portfolio Preview](https://your-uploaded-image-url)](https://madarapremawardana.wixsite.com/profile/portfolio)
+
 
 ### 👋 About Me
 
 - 🎓 I'm a **PhD candidate in Computer Science**, passionate about achieving global net zero via digital twins.
-- 🔬 My research centers around **Digital Twins** — building cyber-physical systems that replicate real-world dynamics.
+- 🔬 My research centers around **Digital Twins** — building cyber-physical renewable.
 - ♻️ Strong focus on **sustainability and Net Zero strategies** using data-driven models.
-- 🎮 I leverage **game engines** Unreal for immersive visualization.
+- 🎮 I use **game engines** Unreal for immersive visualisation.
 - 📊 Skilled in **Python**, **machine learning**, and **data analysis**.
 - 💡 I explore **real-time simulations**, **system modeling**, and **AI-driven control systems**.
 
