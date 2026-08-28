@@ -11,10 +11,10 @@
 
 ### 👋 About Me
 
-- 🎓 I'm a **PhD candidate in Computer Science**, passionate about achieving global net zero via digital twins.
-- 🔬 My research centers around **Digital Twins** — building cyber-physical renewable.
+- 🎓 I hold a **PhD candidate in Computing**, passionate about achieving global net zero via digital twins.
+- 🔬 My research centers around **Digital Twins** — building cyber-physical renewables.
 - ♻️ Strong focus on **sustainability and Net Zero strategies** using data-driven models.
-- 🎮 I use **game engines** Unreal for immersive visualisation.
+- 🎮 I use **game engines** Unreal for immersive visualisation and synthetic world creation.
 - 📊 Skilled in **Python**, **machine learning**, and **data analysis**.
 - 💡 I explore **real-time simulations**, **system modeling**, and **AI-driven control systems**.
 
