@@ -1,59 +1,56 @@
+<img src="assets/twin-header.svg" alt="Madara Premawardhana — digital twins for photovoltaic solar" width="100%">
 
-<h2 align="center">👨‍💻 PhD Researcher | Computer Science | Digital Twins | Net Zero</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat" alt="MadaraPremawardhana" />
-</p>
-
----
-### 📁 Portfolio  
-[![Portfolio Preview](https://github.com/MadaraPremawardhana/MadaraPremawardhana/blob/main/portfolio.png?raw=true)](https://madarapremawardana.wixsite.com/profile/portfolio)
-
-
-### 👋 About Me
-
-- 🎓 I hold a **PhD candidate in Computing**, passionate about achieving global net zero via digital twins.
-- 🔬 My research centers around **Digital Twins** — building cyber-physical renewables.
-- ♻️ Strong focus on **sustainability and Net Zero strategies** using data-driven models.
-- 🎮 I use **game engines** Unreal for immersive visualisation and synthetic world creation.
-- 📊 Skilled in **Python**, **machine learning**, and **data analysis**.
-- 💡 I explore **real-time simulations**, **system modeling**, and **AI-driven control systems**.
+A digital twin is a model that runs alongside the real thing and stays honest about the gap between them. This page is the twin. The physical asset is in Buckingham, usually with too many Unreal Engine builds open.
 
 ---
 
-### 🛠️ Skills & Tech Stack
+### Model inputs
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+| | |
+|---|---|
+| **Domain** | Photovoltaic solar, digital twins, environmental simulation, IoT |
+| **Solving** | Predicting panel output under real weather rather than datasheet weather |
+| **Built with** | C++, Unreal Engine, Python, Blueprints, GeoServer, C# |
+| **Reads from** | Irradiance, temperature, precipitation, terrain, hydrology, satellite |
+| **Boundary** | University of Buckingham. Formerly Moratuwa, Sri Lanka. |
 
 ---
 
-### 📈 GitHub Stats
+### Simulations currently running
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadaraPremawardhana&show_icons=true&theme=tokyonight" />
-</p>
+**[LocSim](https://github.com/MadaraPremawardhana/LocSim)** — Unreal Engine digital twin of a real location. Terrain, buildings and environment reconstructed as a live simulation surface rather than a static scene.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraPremawardhana&layout=compact&theme=tokyonight" />
-</p>
+**[Photovoltaic Solar Digital Twin](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/photovoltaic-solar-digital-twin)** — the PhD. A virtual solar installation that ingests environmental conditions and reports what the real array would have produced, so you can optimise before you mount anything on a roof.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MadaraPremawardhana)](https://git.io/streak-stats)
+**[Unreal EdMode plugin for ML](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/unreal-engine-edmode-plugin-for-ml-capabilities)** — pulling machine learning into the editor itself, so the model and the world it reasons about live in the same place.
 
+**[WeatherSim](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/weathersim)** and **[Sri Lanka Waterways](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/sri-lanka-waterways)** — weather systems and hydrology, simulated. Related work on the Deduru Oya reservoir and on how temperature shifts precipitation behaviour.
 
-### 🌱 Interests
+**[Terrain Generation](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/terrain-generation-automation-tool)** and **[GeoServer](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/geoserver-automation-tool)** automation tools — the unglamorous pipeline work that makes the rest possible.
 
-- 🌍 **Net Zero research** and sustainable computing
-- 🧠 Machine learning + physics-informed modeling
-- 🕹️ Game engine-based simulations for urban/digital infrastructure
-- 🧪 Digital twin frameworks for real-time data integration
-- 🌐 Open-source collaboration and reproducible science
+Earlier runs, still archived: military-grade simulation at VSALT, an object-classifying robot, a wireless measuring unit, a log processing system, and a review of humanoid robot fingers. Full set on the [portfolio](https://madarapremawardana.wixsite.com/profile/portfolio).
 
 ---
 
+### Residuals
+
+The parts the model doesn't capture, which is usually where the interesting error lives.
+
+- Science communication. Soapbox Science and other public events — climbing on a literal box to explain solar simulation to people who did not ask.
+- Winner, Tomorrow's Leader at Overt STEM 2025.
+- Worldwide and Sri Lankan top candidate, BCS HEQ 2016.
+- Mentoring early-career researchers, and a fairly stubborn view that technical work should be accessible to the people it affects.
+
+---
+
+### Contribution surface
+
+<img src="profile-3d-contrib/profile-season-animate.svg" alt="Three-dimensional contribution graph" width="100%">
+
+---
+
+### Boundary conditions
+
+[Portfolio](https://madarapremawardana.wixsite.com/profile) · [LinkedIn](https://www.linkedin.com/in/madarapremawardana) · [madarapremawardana@gmail.com](mailto:madarapremawardana@gmail.com?subject=Hello%20Madara)
+
+<sub>Twin last calibrated against reality: whenever the workflow last ran.</sub>
