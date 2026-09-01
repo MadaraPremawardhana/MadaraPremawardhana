@@ -12,6 +12,15 @@ My PhD: virtual models that watched a real system, learned its habits, and then 
 
 
 ---
+## ◤ Contribution field
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="100%">
+  </picture>
+</div>
 
 ## ◤ Live state
 
@@ -68,18 +77,6 @@ Selected work. Each one started as a real thing, and ended as a thing you can ru
 **Papers and reviews:** [Digital Twins as a Framework for IoT Applications](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/digital-twins-as-a-framework-for-iot-applications) · [On the Impact of Temperature for Precipitation Analysis](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/on-the-impact-of-temperature-for-precipitation-analysis) · [Humanoid Robot Fingers: A Review](https://madarapremawardana.wixsite.com/profile/portfolio-collections/portfolio/humanoid-robot-fingers-a-review)
 
 → [**Full portfolio**](https://madarapremawardana.wixsite.com/profile/portfolio) · 39 repositories and counting
-
-## ◤ Contribution field, in three dimensions
-
-Flat charts are a projection. Here is the actual terrain.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="100%">
-  </picture>
-</div>
 
 ## ◤ Beyond the lab
 
