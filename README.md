@@ -8,10 +8,8 @@
 
 <br>
 
-I build digital twins: virtual models that watch a real system, learn its habits, and then tell you what it is about to do. Currently that system is a photovoltaic solar array, and the question is how much cleaner energy we can pull out of it before the sun goes down. Previously it has been military simulators, city blocks, rivers, and a forest.
-
-This README is itself a low-fidelity twin. Calibration data below.
-
+What's your PhD in? 
+I built digital twins: virtual models that watched a real system, learned its habits, and then told you what it was about to do. At the time, the system was a photovoltaic solar array, and the question was how much cleaner energy we could pull out of it before the sun went down. Previously, I had worked on military simulators, city blocks, rivers, and a forest.
 ---
 
 ## ◤ Live state
