@@ -18,7 +18,7 @@ This README is itself a low-fidelity twin. Calibration data below.
 
 ```yaml
 twin_id:      madara.premawardhana
-status:       RUNNING                     # no unplanned downtime since 1993
+status:       RUNNING                     # no unplanned downtime since 1994
 site:         Buckingham, UK  ←  Moratuwa, LK
 model:        PhD Computing, University of Buckingham
 domain:       digital twins for photovoltaic solar
