@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Madara Premawardhana. Digital twins for photovoltaic solar. PhD Computing, University of Buckingham.">
+  <defs>
+    <linearGradient id="cell" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#2F5C99"/>
+      <stop offset="1" stop-color="#1B3660"/>
+    </linearGradient>
+    <linearGradient id="lit" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#F7C15C"/>
+      <stop offset="1" stop-color="#D98A22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F7C15C" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#F7C15C" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="8" y="8" width="1184" height="324" rx="14"/></clipPath>
+    <style>
+      @media (prefers-reduced-motion: reduce) { .orbit { display: none; } }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="324" rx="14" fill="#0E1B31" stroke="#22406E" stroke-width="1.5"/>
+
+  <g clip-path="url(#frame)">
+    <ellipse cx="990" cy="70" rx="230" ry="150" fill="url(#glow)"/>
+
+    <!-- sun path -->
+    <path id="arc" d="M 830 108 Q 990 26 1150 108" fill="none" stroke="#F7C15C" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="5 7"/>
+    <circle class="orbit" r="7" fill="#FFD98A">
+      <animateMotion dur="14s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#arc"/>
+      </animateMotion>
+    </circle>
+
+    <!-- photovoltaic array -->
+    <path d="M 921 150 L 970 174.5 L 1019 150 L 1019 157 L 970 181.5 L 921 157 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="921,150 970,125.5 1019,150 970,174.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 973 176 L 1022 200.5 L 1071 176 L 1071 183 L 1022 207.5 L 973 183 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="973,176 1022,151.5 1071,176 1022,200.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 869 176 L 918 200.5 L 967 176 L 967 183 L 918 207.5 L 869 183 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="869,176 918,151.5 967,176 918,200.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 1025 202 L 1074 226.5 L 1123 202 L 1123 209 L 1074 233.5 L 1025 209 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="1025,202 1074,177.5 1123,202 1074,226.5" fill="url(#lit)" stroke="#F6C87A" stroke-width="1.2"/>
+    <path d="M 921 202 L 970 226.5 L 1019 202 L 1019 209 L 970 233.5 L 921 209 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="921,202 970,177.5 1019,202 970,226.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 817 202 L 866 226.5 L 915 202 L 915 209 L 866 233.5 L 817 209 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="817,202 866,177.5 915,202 866,226.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 1077 228 L 1126 252.5 L 1175 228 L 1175 235 L 1126 259.5 L 1077 235 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="1077,228 1126,203.5 1175,228 1126,252.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 973 228 L 1022 252.5 L 1071 228 L 1071 235 L 1022 259.5 L 973 235 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="973,228 1022,203.5 1071,228 1022,252.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 869 228 L 918 252.5 L 967 228 L 967 235 L 918 259.5 L 869 235 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="869,228 918,203.5 967,228 918,252.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 1025 254 L 1074 278.5 L 1123 254 L 1123 261 L 1074 285.5 L 1025 261 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="1025,254 1074,229.5 1123,254 1074,278.5" fill="url(#lit)" stroke="#F6C87A" stroke-width="1.2"/>
+    <path d="M 921 254 L 970 278.5 L 1019 254 L 1019 261 L 970 285.5 L 921 261 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="921,254 970,229.5 1019,254 970,278.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+    <path d="M 973 280 L 1022 304.5 L 1071 280 L 1071 287 L 1022 311.5 L 973 287 Z" fill="#0A1526" opacity=".85"/>
+    <polygon points="973,280 1022,255.5 1071,280 1022,304.5" fill="url(#cell)" stroke="#3E67A8" stroke-width="1.2"/>
+  </g>
+
+  <line x1="42" y1="106" x2="42" y2="262" stroke="#F2A33C" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="66" y="152" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="45" font-weight="700" letter-spacing="-0.8" fill="#EFF4FB">Madara Premawardhana</text>
+  <text x="68" y="190" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2A33C">Digital twins for photovoltaic solar</text>
+  <text x="68" y="219" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="16.5" fill="#93AAC9">PhD Computing, School of Computing, University of Buckingham</text>
+  <text x="68" y="255" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#63809F" letter-spacing="0.4">Simulation engineering, net zero, applied AI</text>
+</svg>
