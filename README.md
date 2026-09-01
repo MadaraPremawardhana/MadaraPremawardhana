@@ -10,6 +10,8 @@
 
 What's your PhD in? 
 I built digital twins: virtual models that watched a real system, learned its habits, and then told you what it was about to do. At the time, the system was a photovoltaic solar array, and the question was how much cleaner energy we could pull out of it before the sun went down. Previously, I had worked on military simulators, city blocks, rivers, and a forest.
+
+
 ---
 
 ## ◤ Live state
